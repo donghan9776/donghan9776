@@ -1,5 +1,5 @@
 
-[![臥龍東苑](https://i.imgur.com/DhJpvaS.jpg)](donghan9776.github.io)
+[![臥龍東苑](https://i.imgur.com/DhJpvaS.jpg)](https://donghan9776.github.io/)
 <p <p align="center">You can visit my Blog ( Click Picture 👆🏻👆🏻👆🏻)</p> 
 <br><br>
 
@@ -8,16 +8,6 @@
 <p <p align="center">What's my Streak?</p>
 <br><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=donghan9776&theme=transparent&hide_border=true&border_radius=5&card_width=800)(https://git.io/streak-stats)" /> </div><br>
 <p <p align="center">Oops...Nothing Here !!</p>
-
-
-
-
-
-
-
-
-
-
 
 
 
